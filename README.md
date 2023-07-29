@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on Front & Dev<br>🌱 I’m currently learning Python<br>👯 I’m looking to collaborate on CensorLabel<br>👨‍💻 All of my projects are available at https://github.com/absakash<br>📫 How to reach me https://github.com/absakash
+🔭 I’m currently working on as a junior MERN stack developer <br>🌱 I’m currently playing with react js , mongodb, express, tailwind and others framework.<br>👯 I’m looking to collaborate on CensorLabel<br>👨‍💻 All of my projects are available at https://github.com/absakash<br>📫 How to reach me https://github.com/absakash
 
 
 ## 🌐 Socials:
